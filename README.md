@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Abdullah Saleh Robin 👋</h1>
 
 <p align="center">
-  <b>Full Stack .NET Developer | Cloud & DevOps Enthusiast | React Advocate</b><br>
+  <b>Full Stack .NET Developer | Cloud & DevOps Enthusiast | Angular React Advocate</b><br>
   <i>Blending .NET and React expertise with DevOps and cloud innovation to deliver scalable, enterprise-ready applications.</i>
 </p>
 
@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/><br/>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/><br/>AWS</td>
+    <td align="center"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="30"/><br/>AWS</td>
     <td align="center">🧱<br/>DDD, Microservices, Event-Driven</td>
   </tr>
 </table>
