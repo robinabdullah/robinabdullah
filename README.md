@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Abdullah Saleh Robin 👋</h1>
 
 <p align="center">
-  <b>Full Stack .NET Developer | Cloud & DevOps Enthusiast | Angular React Advocate</b><br>
+  <b>Full Stack .NET Developer | Cloud & DevOps Enthusiast | Angular & React Advocate</b><br>
   <i>Blending .NET and React expertise with DevOps and cloud innovation to deliver scalable, enterprise-ready applications.</i>
 </p>
 
