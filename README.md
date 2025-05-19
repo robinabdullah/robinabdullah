@@ -73,7 +73,7 @@
 
 ### 📈 Career Highlights
 
-- 🏆 **7+ Years** Experience in Full Stack Development
+- 🏆 **9+ Years** Experience in Full Stack Development
 - 🚀 **20+ Projects** Delivered Across Government, Healthcare, and E-commerce
 - 💻 **15+ Technologies** Mastered including React, .NET, Spring Boot, and Microservices
 - 📐 **Code Quality Index 90+** for maintainable and scalable software
