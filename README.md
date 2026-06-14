@@ -19,7 +19,7 @@
 - 🔭 Currently working at **Optimizely** as a Senior Developer
 - 💡 Passionate about solving real-world problems using clean architecture and scalable systems
 - 🧠 Constantly learning **DevOps**, **Microservices**, and **Cloud-native** technologies
-- 🌍 Based in **Dhaka, Bangladesh**
+- 🌍 Based in **Cottbus, Germany**
 - 📧 Reach me at: `abdullahsalehrobin@gmail.com`
 
 ---
