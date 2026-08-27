@@ -1,96 +1,66 @@
----
-<h1 align="center">Hi there, I'm Abdullah Saleh Robin 👋</h1>
+<h1 align="center">Abdullah Saleh Robin</h1>
 
 <p align="center">
-  <b>Full Stack .NET Developer | Cloud & DevOps Enthusiast | Angular & React Advocate</b><br>
-  <i>Blending .NET and React expertise with DevOps and cloud innovation to deliver scalable, enterprise-ready applications.</i>
+  <b>Senior Software Engineer</b><br>
+  <i>.NET and C# back-ends, React and Angular front-ends, and applied AI in production.</i><br>
+  9 years across e-commerce, healthcare, compliance, and public-sector platforms. Based in Germany.
 </p>
 
 <p align="center">
-  <a href="https://github.com/robinabdullah"><img src="https://img.shields.io/github/followers/robinabdullah?label=Follow&style=social" /></a>
   <a href="mailto:abdullahsalehrobin@gmail.com"><img src="https://img.shields.io/badge/Email-abdullahsalehrobin@gmail.com-blue?logo=gmail&style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/robinabdullah/"><img src="https://img.shields.io/badge/LinkedIn-robinabdullah-blue?logo=linkedin&style=flat-square" /></a>
+  <a href="https://robinabdullah.github.io/"><img src="https://img.shields.io/badge/Portfolio-robinabdullah.github.io-brightgreen?style=flat-square" /></a>
+  <a href="https://github.com/robinabdullah"><img src="https://img.shields.io/github/followers/robinabdullah?label=Follow&style=social" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### Featured work
 
-- 🔭 Currently working at **Optimizely** as a Senior Developer
-- 💡 Passionate about solving real-world problems using clean architecture and scalable systems
-- 🧠 Constantly learning **DevOps**, **Microservices**, and **Cloud-native** technologies
-- 🌍 Based in **Cottbus, Germany**
-- 📧 Reach me at: `abdullahsalehrobin@gmail.com`
+**SpireWiz** &nbsp;·&nbsp; AI-powered upgrade automation for Optimizely Configured Commerce, putting the OpenAI Platform API into three-way merge conflict analysis.
+`.NET` `C#` `OpenAI Platform API`
 
----
+**AI-augmented delivery** &nbsp;·&nbsp; Agent-assisted analysis, refactoring and migration embedded into the SDLC across enterprise B2B commerce projects, with production code human-reviewed.
+`Claude Code` `MCP` `Cursor` `GitHub Copilot`
 
-### 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/><br/>C#</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/><br/>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/><br/>TypeScript</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/><br/>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30"/><br/>Angular</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30"/><br/>Redux</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30"/><br/>.NET Core</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/><br/>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" style="background:white;"/><br/>Express.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/><br/>SQL Server</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/><br/>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/><br/>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/><br/>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/><br/>Azure DevOps</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="30"/><br/>Jenkins</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/><br/>Git</td>
-    <td align="center"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="30"/><br/>AWS</td>
-    <td align="center">🧱<br/>DDD, Microservices, Event-Driven</td>
-  </tr>
-</table>
-
+**Smart Voter Info** &nbsp;·&nbsp; Election-data platform for 340+ client organisations in Bangladesh, in production 2021 to January 2026. I designed, built, and ran it: an OCR and LLM document pipeline over a 65M-record database, served by two Angular SPAs on Kubernetes.
+`.NET` `PostgreSQL` `RabbitMQ` `Kubernetes` `Angular`
 
 ---
 
-<!-- 
-### 📊 GitHub Stats
+### Impact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robinabdullah&show_icons=true&theme=radical" alt="robinabdullah's github stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinabdullah&layout=compact&theme=radical" height="180" />
-</p>
--->
+| | Before | After | |
+|---|---|---|---|
+| AI-augmented migration | 200-hour estimate | **90 hours** | 55% faster |
+| Document batch pipeline | 40 minutes | **5 minutes** | 88% faster |
+| Unstructured-PDF data entry | ~3 hours | **~20 minutes** | 89% faster |
 
-
-### 📈 Career Highlights
-
-- 🏆 **9+ Years** Experience in Full Stack Development
-- 🚀 **20+ Projects** Delivered Across Government, Healthcare, and E-commerce
-- 💻 **15+ Technologies** Mastered including React, .NET, Spring Boot, and Microservices
-- 📐 **Code Quality Index 90+** for maintainable and scalable software
+At scale: 25+ upgrades automated a year, 600+ developer hours reclaimed, 230,000+ PDFs and 177M+ records processed, ~10M searches in a 15-day national-election window.
 
 ---
 
-### 💬 Let's Connect
+### Tech
 
-- 📫 Email: abdullahsalehrobin@gmail.com
-- 🌐 Portfolio: [robinabdullah.github.io](https://robinabdullah.github.io/)
-- 💼 LinkedIn: [linkedin.com/in/robinabdullah](https://www.linkedin.com/in/robinabdullah/)
+| Category | Technologies |
+|---|---|
+| **Backend & APIs** | <img src="https://img.shields.io/badge/C%23-239120?style=flat" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="Entity Framework Core" /> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat" alt="REST APIs" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> |
+| **AI & LLM** | <img src="https://img.shields.io/badge/OpenAI_Platform_API-412991?style=flat" alt="OpenAI Platform API" /> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor" /> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" /> |
+| **Cloud & DevOps** | <img src="https://img.shields.io/badge/Azure-0078D4?style=flat" alt="Azure" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white" alt="ArgoCD" /> |
+| **Data** | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat" alt="SQL Server" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white" alt="Redis" /> |
+| **Architecture** | <img src="https://img.shields.io/badge/DDD-0B7285?style=flat" alt="DDD" /> <img src="https://img.shields.io/badge/Clean_Architecture-4B32C3?style=flat" alt="Clean Architecture" /> <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat" alt="Microservices" /> <img src="https://img.shields.io/badge/CQRS-6E4AFF?style=flat" alt="CQRS" /> <img src="https://img.shields.io/badge/Event--Driven-E10098?style=flat" alt="Event-Driven" /> |
+
+---
+
+### Certifications and open source
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** · [verify](https://learn.microsoft.com/api/credentials/share/en-us/AbdullahRobin-1174/2355E1550D085480)
+- **Optimizely Opal Tools Certified 2025** · [verify](https://www.credly.com/badges/85936b8a-0f2f-44d2-b3b1-12e55f63158d/linked_in_profile)
+- Contributor to [CurrentDT-mcp](https://github.com/biswajitpanday/CurrentDT-mcp), an MCP server giving AI assistants real-time date and time access, published on npm.
 
 ---
 
 <p align="center">
   <em>"Code with clarity. Architect with vision. Deliver with confidence."</em>
 </p>
-
----
