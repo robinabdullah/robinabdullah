@@ -1,8 +1,8 @@
 <h1 align="center">Abdullah Saleh Robin</h1>
 
 <p align="center">
-  <b>Senior Software Engineer</b><br>
-  <i>Java and Spring Boot back-ends, .NET and C# back-ends, React and Angular front-ends, and applied AI in production.</i><br>
+  <b>Senior Backend & Full-Stack Engineer</b><br>
+  <i>Enterprise applications: backend services, REST APIs and data-intensive systems in .NET with C# and in Java with Spring Boot, with React and Angular front-ends, and applied AI in production.</i><br>
   9 years across e-commerce, healthcare, compliance, and public-sector platforms. Based in Germany.
 </p>
 
