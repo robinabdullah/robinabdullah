@@ -23,8 +23,8 @@
 **National-scale public platforms** &nbsp;·&nbsp; Java and Spring Boot services behind Bangladesh's national skills-certification platform, used by 100,000+ providers, assessment centres and workers, and a countrywide telemedicine contact centre serving 30M+ rural residents. I architected the certification backend and led the 8-10 engineer team.
 `Java` `Spring Boot` `Spring Security` `Kafka` `PostgreSQL` `Angular`
 
-**AI-augmented delivery** &nbsp;·&nbsp; Agent-assisted analysis, refactoring and migration embedded into the SDLC across enterprise B2B commerce projects, with production code human-reviewed.
-`Claude Code` `MCP` `Cursor` `GitHub Copilot`
+**OpalSpark** &nbsp;·&nbsp; A .NET framework for building AI tools on Optimizely Opal: attribute-based tool discovery, configuration-driven authentication, health checks, rate limiting and request tracing. Shipped a Configured Commerce order-history tool on it and a proof-of-concept Opal to Sitecore integration.
+`.NET` `C#` `Optimizely Opal` `MCP`
 
 **Election-data platform** &nbsp;·&nbsp; 340+ client organisations in Bangladesh, in production 2021 to January 2026. I designed, built, and ran it: an OCR and LLM document pipeline over a 65M-record database, served by two Angular SPAs on Kubernetes.
 `.NET` `PostgreSQL` `RabbitMQ` `Kubernetes` `Angular`
